@@ -2,8 +2,8 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * @param ConnectFourGame
- * Sets up the visual for the interactive Connect 4 main menu.
+ * @param Slot
+ * Manages the piece image shown for buttons on the board.
  */
 
 public class Slot extends JButton{

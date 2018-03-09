@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 
 /**
- * @param ConnectFourGame
- * Sets up the visual for the interactive Connect 4 main menu.
+ * @param TestMiniMax
+ * Provides the best move for AI, given the board state.
  */
 
 public class TestMiniMax {

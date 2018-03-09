@@ -10,7 +10,7 @@ import java.awt.event.MouseEvent;
 
 /**
  * @param ConnectFourGame
- * Sets up the visual for the interactive Connect 4 main menu.
+ * Initializes the connect four game and displays the correct frame.
  *
  */
 

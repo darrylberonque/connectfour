@@ -1,9 +1,7 @@
 
 /**
-* @param Board
-* Sets up the board game GUI, allowing the user to drop the piece in the correct
-* row and column for the turn. Also holds the board state which is a 2D array that 
-* keeps track of currently occupied spots on the board. 
+* @param BoardChecker
+* Checks the boardState for any winning position
 */
 
 

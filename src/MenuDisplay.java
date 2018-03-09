@@ -7,8 +7,8 @@ import javax.swing.JComboBox;
 import javax.swing.JPanel;
 
 /**
- * @param ConnectFourGame
- * Sets up the visual for the interactive Connect 4 main menu.
+ * @param MenuDisplay
+ * Extends JPanel to manage components to be shown in menu GUI
  */
 
 public class MenuDisplay extends JPanel{
